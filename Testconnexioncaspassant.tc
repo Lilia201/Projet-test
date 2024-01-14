@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Test connexion cas passant</name>
-   <tag></tag>
+   <tag> test web </tag>
    <comment></comment>
    <testCaseGuid>9a252414-0504-4b48-8fd8-cf74bae0ac15</testCaseGuid>
 </TestCaseEntity>
